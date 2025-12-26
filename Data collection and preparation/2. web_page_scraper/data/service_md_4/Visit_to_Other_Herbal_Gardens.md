@@ -1,0 +1,1 @@
+Any person is allowed to visit herbal gardens situated at Pattipola, Girndurukotte, Pallekele and Navinna. But as in the Haldamulla herbal garden accommodation or lecture halls facilities are not available in such places.

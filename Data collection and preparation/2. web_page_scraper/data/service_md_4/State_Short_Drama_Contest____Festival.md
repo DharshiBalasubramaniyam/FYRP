@@ -1,0 +1,14 @@
+Short Drama Festival in Sinhala Medium is held annually to promote the progress of Short Dramas with qualitative and creative value and with the intention of using various alternative ways and means to create good opportunities for artistes engaged in the trade with a view to appreciate and evaluate their various skills.
+
+Information and details regarding State short Drama Festival are published through Newspapers and Information Media. Any citizen in the country can apply for this Short-Drama Competition Applicant should compulsorily be the Director of the Drama.
+
+Short-Dramas to be presented will be guided by the following rules and regulations:- Drama should be shown for a minimum period of 20 minutes and a maximum period of 30 minutes. Short-drama should be one-sided, self-composed drama suitable for public exhibition. As explained in the constitution regarding Short-drama it should be compatible with the explanation of meaning. Copy of drama should be typed or computerized in A4 papers on one side and submitted with three copies containing (summarized story of the Drama and introduction of characters to be entered separately in different pages. Specimen [application form 1](https://gic.gov.lk/gic/pdf/Short Drama 1.pdf) prepared according to the Drama Festival Constitution can be used for this purpose.
+
+N.B. Further information appears on the constitution where creations for Short-drama Festival are being called for consideration. For further details – contact - Secretary, State Drama panel on Tel. No. +94-112-872385 Perfected [application form 2](https://gic.gov.lk/gic/pdf/Short Drama 2.pdf) ?with 3 copies of the Drama can be submitted personally before the closing date of the application or send by registered post to the following address:- Secretary, National Drama Panel, Department of Cultural Affairs, Application can be obtained from Secretary, National Drama Panel, Department of Cultural Affairs, 8th Floor, Sethsiripaya, Battaramulla.
+
+No fee will be charged for application form. The acceptance of creations - on the last day or before, during the working hours. No fee will be charged for services rendered.
+
+Copy of permit obtained from Public Performance Board for the exhibition of drama If the Producer/Director of Short Drama is not the script writer of the drama, a letter obtained from the script writer giving permission to conduct the drama. giving permission for same. As mentioned in sub-schedule of constitution, a list of names of actors and actresses performing the characters to be forwarded. Photograph of Drama Director and a short history about him Theme of the Drama – with summarized description of the story and its meaning. 10 photos suitable to be published in papers giving different stages of the drama
+
+Director of Cultural Affairs, Deputy Director of Cultural Affairs, Asst. Director, Cultural Assistant Director (Secretary, National Drama Panel) will serve as Staff Officers in-charge.
+

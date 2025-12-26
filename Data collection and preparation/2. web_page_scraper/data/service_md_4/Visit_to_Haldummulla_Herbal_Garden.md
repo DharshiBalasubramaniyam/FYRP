@@ -1,0 +1,1 @@
+Any person is allowed to visit Haldumuulla herbal garden. If use of accommodation or lecture halls is required, a written request should be made by the principal of relevant school or institute or other educational institution for this purpose.
