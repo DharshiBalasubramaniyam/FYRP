@@ -1,0 +1,2 @@
+Agriculture Functions and Services 1.    Preparation and implementation of agriculture development programme in Mahaweli project 2.    Review and follow up on agriculture programme in Mahaweli 3.    Furnish data and information to the Department of Agriculture, Ministry of Planning, Livestock, Health and Animal Husbandry, etc. 4.    Conducting training programme for agriculture officers and farmers 5.    Implementation of animal husbandry and inland fishery programmes in Mahaweli areas. Telephone No - 011-2691164 / 011-2695051
+
