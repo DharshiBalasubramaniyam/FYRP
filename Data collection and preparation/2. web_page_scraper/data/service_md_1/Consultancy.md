@@ -1,0 +1,2 @@
+Since the inception of the institute, consultancy assignments have been conducted on the request of State, Semi-Government, Corporate Sector and International Organizations. Experience of the institute includes preparation of corporate plans, feasibility studies, research project proposals, management design proposals, implementation road maps, strategic plans, procedure manuals, financial reviews at competitive prices. In addition to expertise available in the institute, there is a pool of experts in all relevant subject areas whose services are on-call.
+

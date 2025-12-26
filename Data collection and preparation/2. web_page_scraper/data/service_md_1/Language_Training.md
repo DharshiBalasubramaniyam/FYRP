@@ -1,0 +1,2 @@
+Recognizing the need of enhancing the knowledge on relevant foreign languages and occupational safety and health measures, of Sri Lankan workforce migrating to different countries for employment, the National Institute of Labour Studies (NILS), has planned to conduct occupational related Korean and English language training courses embedded with applicable knowledge on occupational safety and health measures.
+
