@@ -1,0 +1,2 @@
+Exporting other goods Items valuing less than Rs.10,000.00 weighing less than 100 Kg can be sent at Srilankan Cargo No.660, Galle rd, Colombo 3.  Items are sealed after the customs inspection and allowed for export after paying the handling charges by the Sri lankan cargo. Documents such as:  Passports, Identity Cards, Death Certificates, Birth Certificates, Marriage Certificates, Transfer deeds etc. are not allowed. Additionally the items could also be sent through DHL after customs inspection.
+
