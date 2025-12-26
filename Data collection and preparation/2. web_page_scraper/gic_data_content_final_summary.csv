@@ -1,0 +1,13 @@
+main_category_id,main_category,scraped,not_scraped
+1,Education & Training,66,2
+2,"Housing, Property & Utilities",45,0
+3,"Banking, Tax & Insurance",52,3
+4,"Travel, Tourism &  Lesiure",46,1
+5,"Justice, Law & Rights",63,0
+6,Employment Information,34,3
+7,"Health, Well Being & Social Service",93,0
+8,"Agriculture, Livestock & Fisheries",102,1
+9,Citizen's Registrations,37,0
+10,"Trade, Business & Industry",127,2
+11,Communication & Media,44,2
+12,Environment,38,0
