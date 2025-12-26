@@ -1,0 +1,15 @@
+Retrieval,Approach ,Recall@1,Recall@3,Recall@5,Recall@10,Recall@15
+Sinhala-English,CLE - BGE M3,59.4,83.4,90.2,94.0,96.2
+Sinhala-English,QT - Google Translate,60.0,79.6,85.4,90.4,92.4
+Sinhala-English,QT - NLLB,53.8,71.4,77.6,85.4,87.0
+Sinhala-English,QT - mBART50,46.2,66.8,73.8,80.0,82.8
+Sinhala-English,CLE - E5 Multilingual,36.4,54.2,59.6,68.4,73.0
+Sinhala-English,CLE - LaBSE,30.4,49.4,59.8,68.0,72.4
+Sinhala-English,Baseline,1.6,3.8,5.6,7.4,8.2
+Tamil-English,CLE - BGE M3,61.0,81.0,89.6,94.2,95.6
+Tamil-English,QT - Google Translate,59.4,78.4,85.2,91.2,93.0
+Tamil-English,QT - NLLB,53.2,74.6,80.0,86.6,89.0
+Tamil-English,CLE - E5 Multilingual,48.2,71.2,78.6,85.8,88.6
+Tamil-English,QT - mBART50,48.4,68.0,76.0,82.6,85.2
+Tamil-English,CLE - LaBSE,29.0,46.2,55.4,66.8,72.4
+Tamil-English,Baseline,0.6,1.8,2.0,3.8,4.2
